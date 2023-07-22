@@ -1,6 +1,6 @@
 # discord : 4lperens
 
-## 💚 Features
+# 💚 Features
  - 💦 You can save your configs with config.ini 
  - 🏆 Background Application 
  - 🎲 You can play games but its run in background 
