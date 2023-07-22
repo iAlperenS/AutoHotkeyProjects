@@ -11,6 +11,6 @@
 
 ## 🧶 How to use Config?
  - ❓ Ex : info1=155
- - https://cdn.discordapp.com/attachments/919649724204744735/1132415084640092262/image.png
+(https://cdn.discordapp.com/attachments/919649724204744735/1132415084640092262/image.png)
 
 
