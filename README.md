@@ -7,6 +7,8 @@
  - 📩 İf have problems you can ask on my discord
  - 📩 You can learn cordinates with cordinate button
 
+![Menu](https://cdn.discordapp.com/attachments/919649724204744735/1132416065993986160/image.png)
+
 ## 🎈 Usage
  - 🧾 You need to install AutoHotkey
 
